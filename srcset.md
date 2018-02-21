@@ -1,6 +1,7 @@
-##Srcset and Sizes
+## Srcset and Sizes
 
-###Syntax
+### Syntax
+
 There are two flavors of srcset, one using x to differentiate between device pixel ratios (DPR), and the other using w to describe the image's width.
 
 Reacting to Device Pixel Ratio
